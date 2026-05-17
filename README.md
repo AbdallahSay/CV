@@ -8,7 +8,7 @@
 
 **Backend .NET Developer · IT Graduate 2026 · Open to KSA Opportunities**
 
-[🌐 Live Portfolio](https://abdallahsay.github.io) · [💼 LinkedIn](https://www.linkedin.com/in/abdallah-sayed-022976409) · [🐙 GitHub](https://github.com/AbdallahSay) · [📧 Email](mailto:abdallahsay10@gmail.com)
+[🌐 Live Portfolio](https://abdallahsay.github.io/CV/) · [💼 LinkedIn](https://www.linkedin.com/in/abdallah-sayed-022976409) · [🐙 GitHub](https://github.com/AbdallahSay) · [📧 Email](mailto:abdallahsay10@gmail.com)
 
 </div>
 
@@ -96,7 +96,7 @@ Egyptian E-Learning University (EELU) · Cairo, Egypt · 2026
 
 | Course | Provider | Year |
 |--------|----------|------|
-| Full-Stack Web Development (Angular + ASP.NET Core) | In Route Training Center | 2025–2026 |
+| Full-Stack Web Development (Angular + ASP.NET Core) | In Route Training Center | 2024–2025 |
 
 ---
 
